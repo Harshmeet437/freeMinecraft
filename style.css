@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+h1{
+    color: blue;
+    margin: 40px;
+}
+button{
+  background-color: green;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 40px;
+  margin-top: 50px;
+}
+li{
+    font-size: 30px;
+    font-weight: 40px;
+    color: green;
+    margin: 40px;
+}
+#three{
+    color: white;
+    margin: 40px;
+}
+#two{
+    color: blue;
+    margin: 40px;
+}
